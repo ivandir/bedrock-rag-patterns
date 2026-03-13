@@ -41,7 +41,7 @@ pip install bedrock-rag-patterns
 Or from source:
 
 ```bash
-git clone https://github.com/ivandiranzo/bedrock-rag-patterns
+git clone https://github.com/ivandir/bedrock-rag-patterns
 cd bedrock-rag-patterns
 pip install -e .
 ```
@@ -115,3 +115,4 @@ If you're using OpenSearch Serverless for keyword search, add `aoss:APIAccessAll
 ## License
 
 MIT
+
